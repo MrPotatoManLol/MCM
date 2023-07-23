@@ -19,3 +19,6 @@ MCM is a free Minecraft Mod that adds new Ores to the game.
 - [x] Deepslate Ores (WIP)
 - [ ] Ore Generation
 - [ ] More Ores
+
+----------
+Discord: https://discord.gg/AKPmh9MU3q
