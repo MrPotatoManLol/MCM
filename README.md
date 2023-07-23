@@ -16,7 +16,7 @@ MCM is a free Minecraft Mod that adds new Ores to the game.
 - Citrine Ore
 
 **Planned Features:**
-- [x] Organise Menu (WIP)
+- [x] Organize Menu (WIP)
 - [x] Deepslate Ores (WIP)
 - [ ] Ore Generation
 - [ ] More Ores
