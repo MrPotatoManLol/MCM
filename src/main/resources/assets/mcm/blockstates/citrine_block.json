@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mcm:block/citrine_block"
+    }
+  }
+}

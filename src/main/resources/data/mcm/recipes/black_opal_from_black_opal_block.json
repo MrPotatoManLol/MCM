@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcm:black_opal_block"
+    }
+  ],
+  "result": {
+    "item":"mcm:black_opal",
+    "count": 9
+  }
+}

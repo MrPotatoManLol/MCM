@@ -1,0 +1,16 @@
+{
+  "item.mcm.ruby": "Ruby",
+  "item.mcm.black_opal": "Black Opal",
+  "item.mcm.raw_black_opal": "Raw Black Opal",
+  "item.ncm.citrine": "Citrine",
+  "item.ncm.raw_citrine": "Raw Citrine",
+
+
+  "block.mcm.ruby_block": "Ruby Block",
+  "block.mcm.black_opal_block": "Black Opal Block",
+  "block.mcm.black_opal_ore_block": "Black Opal Ore",
+  "block.ncm.citrine_block": "Citrine Block",
+  "block.ncm.citrine_ore_block": "Citrine Ore",
+
+  "itemgroup.mcmitems": "MCM Items"
+}

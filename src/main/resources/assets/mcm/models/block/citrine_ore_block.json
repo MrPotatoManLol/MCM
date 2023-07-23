@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mcm:block/citrine_ore_block"
+  }
+}
