@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mcm",
+	"version": "${version}",
+	"name": "MCM",
+	"description": "MCM",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC-BY-4.0",
+	"icon": "assets/template-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mrpotatoman.mcm.MCM"
+		],
+		"client": [
+			"net.mrpotatoman.mcm.MCMClient"
+		],
+		"fabric-datagen": [
+			"net.mrpotatoman.mcm.MCMDataGenerator"
+		]
+	},
+	"mixins": [
+		"mcm.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
