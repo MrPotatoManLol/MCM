@@ -21,4 +21,10 @@ MCM is a free Minecraft Mod that adds new Ores to the game.
 - [ ] More Ores
 
 ----------
+## Releases
+----------
+https://github.com/MrPotatoManLol/MCM/releases
+
+----------
 Discord: https://discord.gg/AKPmh9MU3q
+----------
