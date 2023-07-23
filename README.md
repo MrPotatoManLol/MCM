@@ -18,7 +18,7 @@ MCM is a free Minecraft Mod that adds new Ores to the game.
 **Planned Features:**
 - [x] In progress
 - [ ] Not Started
-
+----------
 - [x] Deepslate Ores
 - [ ] Ore Generation
 - [ ] More Ores
