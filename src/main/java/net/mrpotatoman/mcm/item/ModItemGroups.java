@@ -14,6 +14,8 @@ public class ModItemGroups {
             new Identifier(MCM.MOD_ID, "ruby"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.mcmitems"))
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
+                        // TODO - Organize code so it looks better in the game menu
+
                         // Items
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.BLACK_OPAL);
@@ -23,6 +25,8 @@ public class ModItemGroups {
 
                         // Blocks
                         entries.add(ModBlocks.RUBY_BLOCK);
+                        entries.add(ModBlocks.RUBY_ORE_BLOCK);
+                        entries.add(ModBlocks.DEEPSLATE_RUBY_ORE_BLOCK);
                         entries.add(ModBlocks.BLACK_OPAL_BLOCK);
                         entries.add(ModBlocks.BLACK_OPAL_ORE_BLOCK);
                         entries.add(ModBlocks.CITRINE_BLOCK);

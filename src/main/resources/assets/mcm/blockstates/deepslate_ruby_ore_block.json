@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mcm:block/deepslate_ruby_ore_block"
+    }
+  }
+}

@@ -7,6 +7,8 @@
 
 
   "block.mcm.ruby_block": "Ruby Block",
+  "block.mcm.ruby_ore_block": "Ruby Ore",
+  "block.mcm.deepslate_ruby_ore_block": "Deepslate Ruby Ore",
   "block.mcm.black_opal_block": "Black Opal Block",
   "block.mcm.black_opal_ore_block": "Black Opal Ore",
   "block.mcm.citrine_block": "Citrine Block",

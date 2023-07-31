@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "mcm:block/black_opal_ore_block"
+    "all": "mcm:block/deepslate_ruby_ore_block"
   }
 }
