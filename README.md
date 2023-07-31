@@ -10,6 +10,7 @@ MCM is a free Minecraft Mod that adds new Ores to the game.
 
 **Current Blocks:**
 - Ruby Block
+- Ruby Ore (Deepslate & Regular)
 - Black Opal Block
 - Black Opal Ore
 - Citrine Block
