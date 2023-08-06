@@ -10,27 +10,36 @@ import net.mrpotatoman.mcm.MCM;
 import net.mrpotatoman.mcm.block.ModBlocks;
 
 public class ModItemGroups {
-    public static final ItemGroup RUBY_GROUP = Registry.register(Registries.ITEM_GROUP,
+    public static final ItemGroup ORES_GROUP = Registry.register(Registries.ITEM_GROUP,
             new Identifier(MCM.MOD_ID, "ruby"),
-            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.mcmitems"))
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.mcmores"))
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
-                        // TODO - Organize code so it looks better in the game menu
 
-                        // Items
                         entries.add(ModItems.RUBY);
-                        entries.add(ModItems.BLACK_OPAL);
-                        entries.add(ModItems.RAW_BLACK_OPAL);
-                        entries.add(ModItems.CITRINE);
-                        entries.add(ModItems.RAW_CITRINE);
-
-                        // Blocks
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RUBY_ORE_BLOCK);
                         entries.add(ModBlocks.DEEPSLATE_RUBY_ORE_BLOCK);
+
+                        entries.add(ModItems.BLACK_OPAL);
+                        entries.add(ModItems.RAW_BLACK_OPAL);
                         entries.add(ModBlocks.BLACK_OPAL_BLOCK);
                         entries.add(ModBlocks.BLACK_OPAL_ORE_BLOCK);
+
+                        entries.add(ModItems.CITRINE);
+                        entries.add(ModItems.RAW_CITRINE);
                         entries.add(ModBlocks.CITRINE_BLOCK);
                         entries.add(ModBlocks.CITRINE_ORE_BLOCK);
+
+                    }).build());
+
+    public static final ItemGroup FOOD_GROUP = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(MCM.MOD_ID, "tomato"),
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.mcmfoods"))
+                    .icon(() -> new ItemStack(ModItems.TOMATO)).entries((displayContext, entries) -> {
+
+                        entries.add(ModItems.TOMATO);
+                        entries.add(ModItems.STRAWBERRY);
+
                     }).build());
 
 

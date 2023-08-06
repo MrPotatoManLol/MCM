@@ -5,6 +5,9 @@
   "item.mcm.citrine": "Citrine",
   "item.mcm.raw_citrine": "Raw Citrine",
 
+  "item.mcm.tomato": "Tomato",
+  "item.mcm.strawberry": "Strawberry",
+
 
   "block.mcm.ruby_block": "Ruby Block",
   "block.mcm.ruby_ore_block": "Ruby Ore",
@@ -14,5 +17,6 @@
   "block.mcm.citrine_block": "Citrine Block",
   "block.mcm.citrine_ore_block": "Citrine Ore",
 
-  "itemgroup.mcmitems": "MCM Items"
+  "itemgroup.mcmores": "MCM Ores",
+  "itemgroup.mcmfoods": "MCM Foods"
 }
