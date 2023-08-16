@@ -1,7 +1,7 @@
 # MCM
 Fabric 1.20.1
 
-MCM is a free Minecraft Mod that adds new Ores to the game.
+MCM is a free Minecraft Mod that adds new things to the game.
 ----------
 **Current Items:**
 - Ruby
@@ -9,6 +9,9 @@ MCM is a free Minecraft Mod that adds new Ores to the game.
 - Raw Black Opal
 - Citrine
 - Raw Citrine
+
+- Tomato
+- Strawbery
 
 **Current Blocks:**
 - Ruby Block
@@ -24,6 +27,8 @@ MCM is a free Minecraft Mod that adds new Ores to the game.
 - [ ] Ore Generation
 - [ ] More Ores
 
+**Known Issues:**
+- Ores cannot be converted back from blocks after being crafted into blocks. (If you craft a Ruby Block, you can not get 9 Rubies back.)
 ## Releases
 https://github.com/MrPotatoManLol/MCM/releases
 
