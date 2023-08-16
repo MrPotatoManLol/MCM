@@ -9,6 +9,7 @@ MCM is a free Minecraft Mod that adds new things to the game.
 - Raw Black Opal
 - Citrine
 - Raw Citrine
+- Some foods
 
 - Tomato
 - Strawbery
